@@ -1,0 +1,7 @@
+{
+  "name": "CyberSage - Ethical Hacking AI",
+  "description": "An AI-powered voice assistant specializing in ethical hacking and cybersecurity, featuring real-time conversational capabilities via Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
